@@ -1,0 +1,12 @@
+@RequestParam and @PathVariable annotations
+
+https://www.youtube.com/watch?v=IXg52Lg58m4
+
+_____________________________________________________
+
+Annotations-spring MVC
+
+
+https://www.java67.com/2019/04/top-10-spring-mvc-and-rest-annotations-examples-java.html
+
+__________________________________________________________
