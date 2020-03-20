@@ -1,0 +1,88 @@
+
+HIBERNATE
+
+https://www.geeksforgeeks.org/introduction-to-hibernate-framework/
+
+
+_______________________________________________________________________________________
+
+
+SPRING MVC INTERVIEW Q&A
+
+https://howtodoinjava.com/interview-questions/spring-mvc-interview-questions-with-answers/
+
+
+https://www.guru99.com/spring-mvc-framework-interview-questions.html
+
+
+https://www.javatpoint.com/spring-mvc-interview-questions
+
+https://javarevisited.blogspot.com/2018/11/top-20-spring-mvc-interview-questions-answers-for-java-developers.html
+
+https://www.journaldev.com/2696/spring-interview-questions-and-answers
+
+________________________________________________________________________________________
+
+DEPENDENCY INJECTION
+
+https://www.journaldev.com/2410/spring-dependency-injection
+
+https://www.javatpoint.com/dependency-injection-in-spring
+
+_________________________________________________________________________________________
+
+
+AUTOWIRING CONCEPTS
+
+https://howtodoinjava.com/spring-core/spring-beans-autowiring-concepts/
+
+__________________________________________________________________________________________
+
+
+@COMPONENT,@SERVICE,@REPOSITORY
+
+https://www.baeldung.com/spring-component-repository-service
+
+
+
+
+_________________________________________________________________________________________
+
+ Nivetha Ramasamy
+ ioc dependency injection cartoon
+
+    
+https://www.youtube.com/watch?v=OGbU81uaEj4      
+
+______________________________________________________________________________________________
+
+​Ramya Balraj
+
+guyss class dig with relationships
+
+    https://youtu.be/UI6lqHOVHic
+________________________________________________________________________________________
+Akshaya Rathinasabapathy
+Making Your Microservices Resilient and Fault Tolerant - DZone MicroservicesA software architect discusses some best practices to follow to ensure your microservices application is fault tolerant and resilient to failure.dzone.com
+    
+https://dzone.com/articles/making-your-microservices-resilient-and-fault-tole-1
+
+
+_______________________________________________________________________________________________
+
+ Aarthi Selvamani
+angular  
+Learn Angular 8 Step By Step In 10 Days - Route or Component Navigation - Day TenIn this article series, we are discussing issues  related to different concepts of Angular 8. In this article, we will discuss about the route and its different approaches.www.c-sharpcorner.com
+
+    
+https://www.c-sharpcorner.com/article/learn-angular-8-step-by-step-in-10-days-route-or-component-navigation-day-te/
+
+
+_________________________________________________________________________________________________
+
+Ramya Balraj
+What's the difference between @Component, @Repository & @Service annotations in Spring?Can @Component, @Repository and @Service annotations be used interchangeably in Spring or do they provide any particular functionality besides acting as a notation device?
+In other words, if I hav...stackoverflow.com  
+https://stackoverflow.com/questions/6827752/whats-the-difference-between-component-repository-service-annotations-in
+
+_______________________________________________________________________________________
